@@ -111,6 +111,7 @@ The structure of Encoder base on Resnet
 
 * 根据数据分析, 小目标效果比较差, 可以尝试使用FPN或者更换[Cascade相关网络](https://zhuanlan.zhihu.com/p/57629509)
 
-* 其他常用比赛套路: 模型融合于弱监督学习
+* 其他常用比赛套路: 模型融合和弱监督学习
 
   
+
